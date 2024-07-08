@@ -9,7 +9,8 @@ body {
     font-family: arial;
     font-size: 16px;
     margin: 0;
-    background: linear-gradient(45deg, #684eb2,rgba(5, 44, 10, 0.267));
+    background: url(background.jpg);
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
